@@ -1,0 +1,4 @@
+To build
+
+npm install (note node_modules dir in .gitignore)
+make bootstrap (built assets are stored in git)
