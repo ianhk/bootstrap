@@ -3492,17 +3492,17 @@ input[type="button"].btn-block {
 .btn-info {
   color: #ffffff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-  background-color: #49afcd;
-  *background-color: #2f96b4;
-  background-image: -moz-linear-gradient(top, #5bc0de, #2f96b4);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#5bc0de), to(#2f96b4));
-  background-image: -webkit-linear-gradient(top, #5bc0de, #2f96b4);
-  background-image: -o-linear-gradient(top, #5bc0de, #2f96b4);
-  background-image: linear-gradient(to bottom, #5bc0de, #2f96b4);
+  background-color: #089f71;
+  *background-color: #07825d;
+  background-image: -moz-linear-gradient(top, #09b27f, #07825d);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#09b27f), to(#07825d));
+  background-image: -webkit-linear-gradient(top, #09b27f, #07825d);
+  background-image: -o-linear-gradient(top, #09b27f, #07825d);
+  background-image: linear-gradient(to bottom, #09b27f, #07825d);
   background-repeat: repeat-x;
-  border-color: #2f96b4 #2f96b4 #1f6377;
+  border-color: #07825d #07825d #033929;
   border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5bc0de', endColorstr='#ff2f96b4', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff09b27f', endColorstr='#ff07825d', GradientType=0);
   filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
 
@@ -3513,13 +3513,13 @@ input[type="button"].btn-block {
 .btn-info.disabled,
 .btn-info[disabled] {
   color: #ffffff;
-  background-color: #2f96b4;
-  *background-color: #2a85a0;
+  background-color: #07825d;
+  *background-color: #056a4b;
 }
 
 .btn-info:active,
 .btn-info.active {
-  background-color: #24748c \9;
+  background-color: #04513a \9;
 }
 
 .btn-inverse {
@@ -3786,7 +3786,7 @@ input[type="submit"].btn.btn-mini {
 }
 
 .btn-group.open .btn-info.dropdown-toggle {
-  background-color: #2f96b4;
+  background-color: #07825d;
 }
 
 .btn-group.open .btn-inverse.dropdown-toggle {
